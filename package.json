@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spec27/goit-node-hw-01.git"
+  },
+  "author": "Spec27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spec27/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Spec27/goit-node-hw-01#readme",
+  "dependencies": {
+    "uid": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
