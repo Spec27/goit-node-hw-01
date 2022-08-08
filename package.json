@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/Spec27/goit-node-hw-01#readme",
   "dependencies": {
-    "uid": "^2.0.0"
+    "commander": "^9.4.0",
+    "nanoid": "^3.3.4",
+    "uid": "^2.0.0",
+    "yargs": "^17.5.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
